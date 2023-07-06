@@ -1,0 +1,17 @@
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\bin\Release\net6.0-windows\Count_Days_Final.exe
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\bin\Release\net6.0-windows\Count_Days_Final.deps.json
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\bin\Release\net6.0-windows\Count_Days_Final.runtimeconfig.json
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\bin\Release\net6.0-windows\Count_Days_Final.dll
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\bin\Release\net6.0-windows\Count_Days_Final.pdb
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\obj\Release\net6.0-windows\Count_Days_Final.csproj.AssemblyReference.cache
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\obj\Release\net6.0-windows\Count_Days_Final.Form1.resources
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\obj\Release\net6.0-windows\Count_Days_Final.csproj.GenerateResource.cache
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\obj\Release\net6.0-windows\Count_Days_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\obj\Release\net6.0-windows\Count_Days_Final.AssemblyInfoInputs.cache
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\obj\Release\net6.0-windows\Count_Days_Final.AssemblyInfo.cs
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\obj\Release\net6.0-windows\Count_Days_Final.csproj.CoreCompileInputs.cache
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\obj\Release\net6.0-windows\Count_Days_Final.dll
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\obj\Release\net6.0-windows\refint\Count_Days_Final.dll
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\obj\Release\net6.0-windows\Count_Days_Final.pdb
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\obj\Release\net6.0-windows\Count_Days_Final.genruntimeconfig.cache
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\obj\Release\net6.0-windows\ref\Count_Days_Final.dll

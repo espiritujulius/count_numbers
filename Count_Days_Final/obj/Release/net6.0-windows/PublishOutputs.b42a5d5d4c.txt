@@ -1,0 +1,5 @@
+C:\Users\JULIUS\Desktop\counting_days\Count_Days_Final.exe
+C:\Users\JULIUS\Desktop\counting_days\Count_Days_Final.dll
+C:\Users\JULIUS\Desktop\counting_days\Count_Days_Final.deps.json
+C:\Users\JULIUS\Desktop\counting_days\Count_Days_Final.runtimeconfig.json
+C:\Users\JULIUS\Desktop\counting_days\Count_Days_Final.pdb

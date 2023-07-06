@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XdoglaU4+h+Yl1uNKkpv9A7G/LwVCPbpY74DlTxlEN3lP0zmr6m5SshpBg6VXGnYFwQqYd8NETlf0fjyPSbYaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JULIUS\\source\\repos\\Count_Days_Final\\Count_Days_Final\\Count_Days_Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JULIUS\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.18\\microsoft.netcore.app.runtime.win-x86.6.0.18.nupkg.sha512",
+    "C:\\Users\\JULIUS\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.18\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.18.nupkg.sha512",
+    "C:\\Users\\JULIUS\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.18\\microsoft.aspnetcore.app.runtime.win-x86.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

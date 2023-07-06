@@ -1,0 +1,7 @@
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\obj\Debug\netcoreapp3.0\Count_Days_Final.csproj.AssemblyReference.cache
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\obj\Debug\netcoreapp3.0\Count_Days_Final.Form1.resources
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\obj\Debug\netcoreapp3.0\Count_Days_Final.csproj.GenerateResource.cache
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\obj\Debug\netcoreapp3.0\Count_Days_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\obj\Debug\netcoreapp3.0\Count_Days_Final.AssemblyInfoInputs.cache
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\obj\Debug\netcoreapp3.0\Count_Days_Final.AssemblyInfo.cs
+C:\Users\JULIUS\source\repos\Count_Days_Final\Count_Days_Final\obj\Debug\netcoreapp3.0\Count_Days_Final.csproj.CoreCompileInputs.cache

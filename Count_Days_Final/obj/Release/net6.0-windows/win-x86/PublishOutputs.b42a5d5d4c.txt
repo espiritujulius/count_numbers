@@ -1,0 +1,7 @@
+C:\Users\JULIUS\Desktop\counting_days\Count_Days_Final.pdb
+C:\Users\JULIUS\Desktop\counting_days\D3DCompiler_47_cor3.dll
+C:\Users\JULIUS\Desktop\counting_days\PenImc_cor3.dll
+C:\Users\JULIUS\Desktop\counting_days\PresentationNative_cor3.dll
+C:\Users\JULIUS\Desktop\counting_days\vcruntime140_cor3.dll
+C:\Users\JULIUS\Desktop\counting_days\wpfgfx_cor3.dll
+C:\Users\JULIUS\Desktop\counting_days\Count_Days_Final.exe
